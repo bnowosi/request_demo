@@ -1,0 +1,11 @@
+// this works for the /json-example app route
+{
+	"language":"Python",
+	"framework":"Flask",
+	"version_info":{
+		"python":3.4,
+		"flask":1.0
+	},
+	"examples":["bob", "joe", "harry"],
+	"boolean_test":true
+}
